@@ -1,7 +1,7 @@
 ### hey.
 
 I'm a software engineer based in London.\
-I work at [the Guardian](https://www.theguardian.com/) in Investigations & Reporting, a small team of developers using technology to uncover stories and developing tools to make collaboration between reporters and whistleblowers more secure.
+I work at [the Guardian](https://www.theguardian.com/) in Investigations & Reporting, a small team of developers using technology to uncover stories and building tools to make collaboration between reporters and whistleblowers more secure.
 
 I speak Italian, English and Japanese, and I can get by in French and Spanish.\
 I enjoy, in no particular order: contemporary fiction, cycling, experimenting with [Rust](https://www.rustlang.com/).
