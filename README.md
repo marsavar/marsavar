@@ -1,7 +1,8 @@
 ### hey.
 
-I'm a software engineer based in London.\
-I currently work at [Snyk](https://www.snyk.io). Previously, I worked at [the Guardian](https://www.theguardian.com/) in the Investigations & Reporting team, a small group of developers using technology to uncover stories and building tools to make collaboration between reporters and whistleblowers more secure.
+I'm a software engineer based in London, currently working at [Snyk](https://www.snyk.io).
+
+Previously, I worked at [the Guardian](https://www.theguardian.com/) in the Investigations & Reporting team, a small group of developers using technology to uncover stories and building tools to make collaboration between reporters and whistleblowers more secure. 
 
 I speak Italian, English and Japanese, and I can get by in French and Spanish.\
 I enjoy, in no particular order: contemporary fiction, cycling, [Rust](https://www.rustlang.com/).
