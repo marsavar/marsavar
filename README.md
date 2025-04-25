@@ -8,5 +8,5 @@ I started my career in book publishing before making the transition to engineeri
 I speak Italian, English and Japanese, and I can get by in French and Spanish.\
 I enjoy, in no particular order: contemporary fiction, cycling, [Rust](https://www.rustlang.com/).
 
-- 📫 If you want to get in touch, drop me an [email](mailto:remove%20spaces%20and%20brackets%20from%20mario%20(.)%20savarese%20@%20protonmail%20(.)%20com).
+- 📫 If you want to get in touch, drop me an [email](mailto:mario.savarese@protonmail.com).
 - 🔐 For extra security, you can use my [PGP key](https://raw.githubusercontent.com/marsavar/marsavar/main/msav.pub.txt).
